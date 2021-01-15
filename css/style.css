@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Verdana;
+  background-color: lightgray;
+}
+
+div {
+  background-color: #999999;
+  margin-top: 5px;
+  padding: 10px 5px;
+  height: 200px;
+  width: 25%;
+}
+
+h1 {
+  color: white;
+  border: 1px solid black;
+}
+
+h3 {
+  color: white;
+}
